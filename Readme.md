@@ -1,7 +1,7 @@
 # Portfólio Pessoal - Desenvolvimento Web
 
 **Aluno:** Jean Marco Carneiro
-**Link do site publicado:** 
+**Link do site publicado:** https://jean-marco1977.github.io/Meu-Perfil/
 
 ## 📝 Descrição do Portfólio
 Este projeto consiste em uma página web responsiva desenvolvida como portfólio pessoal para apresentar minha trajetória, habilidades técnicas, projetos desenvolvidos e meios de contato profissional.
